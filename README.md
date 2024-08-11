@@ -72,12 +72,6 @@ To further validate the findings, hierarchical clustering was used with Agglomer
 
 The project successfully used unsupervised learning techniques to classify wines into three distinct groups based on their chemical attributes. Both K-Means and hierarchical clustering confirmed that the optimal number of clusters is 3, which aligns with the known classes in the dataset.
 
-## Repository Structure
-
-- **`notebooks/`**: Contains the Jupyter notebooks with the code and analysis.
-- **`data/`**: Dataset can be downloaded using `from ucimlrepo import fetch_ucirepo`
-- **`README.md`**: Project overview and key points (this file).
-
 ## References
 
 - [Wine Dataset - UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/109/wine)
